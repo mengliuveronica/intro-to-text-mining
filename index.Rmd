@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Introduction to Text Mining with R"
+author: "Meng Liu"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
